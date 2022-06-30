@@ -1,3 +1,2 @@
 from countdown import countdown
-
-countdown()
+countdown() #countdow
