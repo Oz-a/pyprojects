@@ -1,2 +1,2 @@
 from countdown import countdown
-countdown() #countdow
+countdown() #count down from a user input number
