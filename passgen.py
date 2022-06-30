@@ -11,5 +11,3 @@ def generate_password():
   for i in range(length):
     password = password+random.choice(chars)
   print(password)
-
-generate_password()
